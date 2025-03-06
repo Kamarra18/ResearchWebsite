@@ -1,0 +1,77 @@
+<!DOCTYPE html> 
+ <html lang="en"> 
+ <head> 
+     <meta charset="UTF-8"> 
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+     <title>How time is Transforming the Agriculture Industry</title> 
+     <style> 
+         body { 
+             text-align: center; 
+             font-family: Arial, sans-serif; 
+         } 
+         table { 
+             margin: 20px auto; 
+             border-collapse: collapse; 
+             width: 50%; 
+         }
+         th { 
+             padding: 10px; 
+             border: 1px solid black; 
+             background-color: #f4f4f4; 
+             font-family: Fantasy; 
+             font-size: 40px; 
+             color: red; 
+         }
+         .milestone-text { 
+ 
+             font-size: 40px; 
+             font-family: Fantasy; 
+             color: red; 
+             font-weight: bold; 
+             margin: 30px 0; 
+             transition: color 0.5s ease-in-out; 
+         } 
+         .milestone-text:hover { 
+             color: skyblue; 
+         } 
+         .milestone-image { 
+             display: block; 
+             margin: 20px auto; 
+             width: 50%; 
+         } 
+         .footer { 
+             margin-top: 30px; 
+             font-size: 16px; 
+         } 
+     </style> 
+ </head> 
+ <body> 
+     <table border="1"> 
+         <tr> 
+            <th><a href="herbology.html">Herbology</a></th>
+            <th><a href="How AI is Transforming the Agriculture Industry.html"></a>How AI is Transforming the Agriculture Industry</th>
+            <th><a href="Agricultural Engineering.html"></a>How time is Transforming the Agriculture Industry</th>
+            <th><a href="Agricultural Engineering – Traditional and SMART.html"></a>Agricultural Engineering – Traditional and SMART</th>
+            <th><a href="Autonomous Agriculture, Precision Farming & Robotics.html"></a>Autonomous Agriculture, Precision Farming & Robotics</th>
+         </tr> 
+     </table> 
+     <div class="milestone-text">Herbology</div> 
+     <div class="milestone-text">How AI is Transforming the Agriculture Industry</div> 
+     <div class="milestone-text">How time is Transforming the Agriculture Industry</div> 
+     <div class="milestone-text">Agricultural Engineering – Traditional and SMART</div> 
+     <div class="milestone-text">Autonomous Agriculture, Precision Farming & Robotics</div> 
+     <div> 
+         <div class="tooltip"> 
+             <img class="milestone-image" src="https://th.bing.com/th/id/OIP.dDlBrv47rtQBVCsk-SlCKwHaEK?rs=1&pid=ImgDetMain" alt="Crop Drone""> 
+ 
+             <span class="tooltip-text">Milestone Image</span> 
+         </div> 
+         <p style="text-align: center; font-size: 18px;"> 
+ 
+         </p> 
+     </div> 
+     <div class="footer"> 
+         <p><strong>Source:</strong> <a href="https://www.wikipedia.org/" target="_blank">wikipedia</a></p> 
+     </div> 
+ </body> 
+ </html>
