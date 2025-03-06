@@ -21,35 +21,35 @@
         }
     </style>
 </head>
-<link rel="stylesheet" type="Herbology" href="my_style.css">
-<link rel="stylesheet" type="How time is Transforming the Agriculture Industry" href="my_style.css">
+<link rel="stylesheet" type="Herbology" href="herbology.html">
+<link rel="stylesheet" type="How time is Transforming the Agriculture Industry" href="How AI is Transforming the Agriculture Industry.html">
 <link rel="stylesheet" type="How AI is Transforming the Agriculture Industry" href="my_style.css">
 <link rel="stylesheet" type="Agricultural Engineering – Traditional and SMART" href="my_style.css">
 <link rel="stylesheet" type="Autonomous Agriculture, Precision Farming & Robotic" href="my_style.css">
 <link rel="stylesheet" type="stylesheet" href="my_style.css">
 <body>
-<ul>
-    <li>
-        <h2>Herbology</h1>
-        <a href="https://en.wikipedia.org/wiki/Herb"><img src="https://th.bing.com/th/id/OIP.oXp9MG8Rzhf1MuJNe-n-mwHaJ4?w=156&h=184&c=7&r=0&o=5&pid=1.7" alt="Herbology" width="150" height="150"></a>
-    </li>
-    <li id="apple">
-        <h2>How AI is Transforming the Agriculture Industry</h2>
-        <a href="https://mindy-support.com/news-post/how-ai-is-transforming-the-agriculture-industry/"><img src="https://mindy-support.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/11/using-ai-robots-to-improve-efficiency-in-agriculture-1.png.webp" alt="AI Arm" width="150" height="150"></a>
-    </li>
-    <li>
-        <h2>How AI is Transforming the Agriculture Industry</h2>
-        <a href="https://industrywired.com/how-agricultural-drone-technology-is-making-farming-smarter/"><img src="https://th.bing.com/th/id/OIP.dDlBrv47rtQBVCsk-SlCKwHaEK?rs=1&pid=ImgDetMain" alt="Crop Drone" width="150" height="150"></a>
-    </li>
-    <li>
-        <h2>Agricultural Engineering – Traditional and SMART</h2>
-        <a href="https://www.millerengineering.com/agricultural-engineering-experience"><img src="https://th.bing.com/th/id/R.27d8f07ac76388e6c97eebd169555da4?rik=%2fE%2fj5B7%2bwxi6Ew&pid=ImgRaw&r=0" alt="Plow" width="150" height="150"></a>
-    </li>
-    <li>
-        <h2>Autonomous Agriculture, Precision Farming & Robotics</h2>
-        <a href="https://www.advancednavigation.com/autonomous-agriculture-and-precision-farming/?utm_source=bing&utm_medium=cpc&utm_campaign=IMU&utm_term=smart%20farming%20technology&msclkid=dd23804078a61a547ebae7d3bb382348"><img src="https://th.bing.com/th/id/OIP.PPZNAh9HTAsUlHWZbA6KkQHaEK?rs=1&pid=ImgDetMain" alt="plant" width="150" height="150"></a>
-    </li>
-</ul>
+    <ul>
+        <li>
+            <h2><a href="herbology.html">Herbology</a></h1>
+            <a href="https://en.wikipedia.org/wiki/Herb"><img src="https://th.bing.com/th/id/OIP.oXp9MG8Rzhf1MuJNe-n-mwHaJ4?w=156&h=184&c=7&r=0&o=5&pid=1.7" alt="Herbology" width="150" height="150"></a>
+        </li>
+        <li id="apple">
+            <h2><a href="How AI is Transforming the Agriculture Industry.html">How time is Transforming the Agriculture Industry</a></h2>
+            <a href="https://mindy-support.com/news-post/how-ai-is-transforming-the-agriculture-industry/"><img src="https://mindy-support.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/11/using-ai-robots-to-improve-efficiency-in-agriculture-1.png.webp" alt="AI Arm" width="150" height="150"></a>
+        </li>
+        <li>
+            <h2><a href="How time is Transforming the Agriculture Industry.html">How AI is Transforming the Agriculture Industry</a></h2>
+            <a href="https://industrywired.com/how-agricultural-drone-technology-is-making-farming-smarter/"><img src="https://th.bing.com/th/id/OIP.dDlBrv47rtQBVCsk-SlCKwHaEK?rs=1&pid=ImgDetMain" alt="Crop Drone" width="150" height="150"></a>
+        </li>
+        <li>
+            <h2><a href="Agricultural Engineering – Traditional and SMART.html">Agricultural Engineering – Traditional and SMART</a></h2>
+            <a href="https://www.millerengineering.com/agricultural-engineering-experience"><img src="https://th.bing.com/th/id/R.27d8f07ac76388e6c97eebd169555da4?rik=%2fE%2fj5B7%2bwxi6Ew&pid=ImgRaw&r=0" alt="Plow" width="150" height="150"></a>
+        </li>
+        <li>
+            <h2><a href="Autonomous Agriculture, Precision Farming & Robotics.html">Autonomous Agriculture, Precision Farming & Robotic</a></h2>
+            <a href="https://www.advancednavigation.com/autonomous-agriculture-and-precision-farming/?utm_source=bing&utm_medium=cpc&utm_campaign=IMU&utm_term=smart%20farming%20technology&msclkid=dd23804078a61a547ebae7d3bb382348"><img src="https://th.bing.com/th/id/OIP.PPZNAh9HTAsUlHWZbA6KkQHaEK?rs=1&pid=ImgDetMain" alt="plant" width="150" height="150"></a>
+        </li>
+    </ul>
 
 
 ,<table border="2px">
